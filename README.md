@@ -1,3 +1,8 @@
+NAME:T.K.SHRIVIMAL
+
+
+REF NO:212224220101
+
 EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
